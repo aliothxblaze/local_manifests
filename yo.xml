@@ -14,11 +14,11 @@
 
                                 <!-- Trees -->
 
-		<project path="device/xiaomi/alioth" name="device_xiaomi_alioth" revision="Blaze-a14" remote="me"/>
-		<project path="device/xiaomi/sm8250-common" name="device_xiaomi_sm8250-common" revision="aosp-14" remote="me"/>
+	<project path="device/xiaomi/alioth" name="device_xiaomi_alioth" revision="Blaze-a14" remote="me"/>
+	<project path="device/xiaomi/sm8250-common" name="device_xiaomi_sm8250-common" revision="aosp-14" remote="me"/>
         <project path="vendor/xiaomi/alioth" name="PocoF3Releases/vendor_xiaomi_alioth" remote="git" revision="aosp-14" />
         <project path="vendor/xiaomi/sm8250-common" name="PocoF3Releases/vendor_xiaomi_sm8250-common" remote="git" revision="aosp-14" />
-		<project path="kernel/xiaomi/sm8250" name="PocoF3Releases/kernel_xiaomi_sm8250" remote="git" revision="aosp-14" />
+	<project path="kernel/xiaomi/sm8250" name="PocoF3Releases/kernel_xiaomi_sm8250" remote="git" revision="aosp-14" />
         <project path="hardware/xiaomi" name="Evolution-X/hardware_xiaomi" remote="git" revision="udc" />
         <project path="packages/resources/devicesettings" name="VoidUI-Andromeda/packages_resources_devicesettings" remote="git" revision="aosp-14" />
         <project path="system/libhwbinder" name="Evolution-X/system_libhwbinder" remote="git" revision="u" clone-depth="1" />
