@@ -8,6 +8,8 @@
 	
         <remote name="og"
 		fetch="https://github.com/aliothxblaze" />
+        <remote name="lab"
+		fetch="https://gitlab.com/" />
 	
                               <!-- Removed projects --> 
 
@@ -30,5 +32,6 @@
         <project path="packages/resources/devicesettings" name="VoidUI-Andromeda/packages_resources_devicesettings" remote="git" revision="aosp-14" />
         <project path="system/libhwbinder" name="Evolution-X/system_libhwbinder" remote="git" revision="u" clone-depth="1" />
 	<project path="frameworks/native" name="frameworks_native" remote="og" revision="14-QPR2" clone-depth="1" />
+	<project path="vendor/xiaomi/camera" name="johnmart19/vendor_xiaomi_camera" remote="lab" revision="aosp-14" />
 
 </manifest>	
